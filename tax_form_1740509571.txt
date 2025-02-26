@@ -1,0 +1,50 @@
+=== TAX YEAR 2023 ===
+=== PERSONAL INFORMATION ===
+Full Name: John Doe
+Social Security Number: 123-45-6789
+Filing Status: Single
+Date of Birth: 1985-03-15
+Address: 123 Main St, Anytown CA
+
+=== INCOME ===
+1. Employment Income:
+   - Employer Name: Tech Corp Inc
+   - Wages: $85000
+   
+2. Freelance Income: $12500
+
+3. Investment Income:
+   - Dividends: $1200
+   - Capital Gains: $0
+
+=== DEDUCTIONS ===
+1. Medical Expenses: $2300
+2. Charitable Contributions: $500
+3. Education Expenses: $0
+4. Retirement Contributions: $0
+
+=== TAX CALCULATION ===
+Total Income: $98700
+Total Deductions: $2800
+Taxable Income: $95900
+Federal Tax Owed: $15200
+State Tax Owed: $4500
+
+=== CREDITS ===
+Child Tax Credit: $0
+Earned Income Credit: $0
+
+=== PAYMENTS ===
+Withheld Taxes: $19700
+Estimated Payments: $0
+
+=== REFUND/AMOUNT OWED ===
+Total Payments: $19700
+Total Tax Liability: $19700
+Refund Amount: $0
+Amount Owed: $0
+
+=== SIGNATURE ===
+I declare under penalty of perjury that this return is true:
+Signature: ___________________________
+Date: [DATE]

@@ -1,0 +1,50 @@
+=== TAX YEAR [YEAR] ===
+=== PERSONAL INFORMATION ===
+Full Name: [NAME]
+Social Security Number: [SSN]
+Filing Status: [STATUS]
+Date of Birth: [DOB]
+Address: [ADDRESS]
+
+=== INCOME ===
+1. Employment Income:
+   - Employer Name: [EMPLOYER]
+   - Wages: $[WAGES]
+   
+2. Freelance Income: $[FREELANCE_INCOME]
+
+3. Investment Income:
+   - Dividends: $[DIVIDENDS]
+   - Capital Gains: $[CAPITAL_GAINS]
+
+=== DEDUCTIONS ===
+1. Medical Expenses: $[MEDICAL]
+2. Charitable Contributions: $[CHARITY]
+3. Education Expenses: $[EDUCATION]
+4. Retirement Contributions: $[RETIREMENT]
+
+=== TAX CALCULATION ===
+Total Income: $[TOTAL_INCOME]
+Total Deductions: $[TOTAL_DEDUCTIONS]
+Taxable Income: $[TAXABLE_INCOME]
+Federal Tax Owed: $[FEDERAL_TAX]
+State Tax Owed: $[STATE_TAX]
+
+=== CREDITS ===
+Child Tax Credit: $[CHILD_CREDIT]
+Earned Income Credit: $[EIC]
+
+=== PAYMENTS ===
+Withheld Taxes: $[TAX_WITHHELD]
+Estimated Payments: $[ESTIMATED_PAYMENTS]
+
+=== REFUND/AMOUNT OWED ===
+Total Payments: $[TOTAL_PAYMENTS]
+Total Tax Liability: $[TOTAL_LIABILITY]
+Refund Amount: $[REFUND_AMOUNT]
+Amount Owed: $[AMOUNT_OWED]
+
+=== SIGNATURE ===
+I declare under penalty of perjury that this return is true:
+Signature: ___________________________
+Date: [DATE]

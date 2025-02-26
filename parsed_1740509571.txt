@@ -1,0 +1,17 @@
+Tax Year: 2023
+Full Name: John Doe
+SSN: 123-45-6789
+Filing Status: Single
+Address: 123 Main St, Anytown CA
+Date of Birth: 1985-03-15
+Income Sources:
+- Employer: Tech Corp Inc | Wages: $85,000
+- Freelance Income: $12,500
+- Dividends: $1,200
+Deductions:
+- Medical Expenses: $2,300
+- Student Loan Interest: $1,800
+- Charitable Donations: $500
+Tax Payments:
+- Federal Withheld: $15,200
+State Withheld: $4,500
